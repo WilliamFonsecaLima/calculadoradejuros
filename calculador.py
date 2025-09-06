@@ -116,6 +116,7 @@ if st.button("Calcular Projeção", type="primary"):
         # Gráfico de projeção
         st.subheader("Evolução do Investimento")
         
+       #tem algum erro apartir dessa linha !!!
         fig = go.Figure()
         
         fig.add_trace(go.Scatter(
