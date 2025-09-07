@@ -165,8 +165,6 @@ if st.button("Calcular Projeção", type="primary"):
 st.divider()
 st.subheader("💡 Sobre Juros Compostos")
 st.markdown("""
-Os juros compostos são considerados a **oitava maravilha do mundo** (segundo Albert Einstein) 
-porque permitem que seu dinheiro cresça exponencialmente com o tempo.
 
 **Fórmula utilizada:**  
 `M = P × (1 + i)ⁿ`  
@@ -176,7 +174,6 @@ Onde:
 - `i` = Taxa de juros (em decimal)
 - `n` = Período de tempo
 
-Quanto antes você começar a investir, mais você se beneficia do poder dos juros compostos!
 """)
 
 # Rodapé
